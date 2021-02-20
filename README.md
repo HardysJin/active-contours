@@ -1,5 +1,12 @@
 # active-contours
 
+## Run
+
+```
+# adjust parameters depends on images
+matlab main.m
+```
+
 ## Results
 ### Shape
 ```
